@@ -1,0 +1,33 @@
+{
+  "name": "imedocpro",
+  "version": "1.0.0",
+  "description": "IME Doc Pro",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durologic/imedocpro.git"
+  },
+  "keywords": [
+    "ime"
+  ],
+  "author": "Dan Orosco <dan.oro@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durologic/imedocpro/issues"
+  },
+  "homepage": "https://github.com/durologic/imedocpro#readme"
+}
